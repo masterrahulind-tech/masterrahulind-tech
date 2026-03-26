@@ -66,7 +66,7 @@ Copy and paste this into your masterrahulind-tech/masterrahulind-tech repository
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge%26logo=c%2B%2B%26logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
 
 <h4><b>AI & Machine Learning</b></h4>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
@@ -110,11 +110,11 @@ Copy and paste this into your masterrahulind-tech/masterrahulind-tech repository
 <tr>
 <!-- Dynamic GitHub Stats -->
 <td width="50%" align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=masterrahulind-tech%26show_icons=true%26theme=radical%26hide_border=true%26bg_color=0D1117" alt="GitHub Stats" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmasterrahulind-tech%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Stats" width="100%" />
 </td>
 <!-- Top Languages Pie Chart -->
 <td width="50%" align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api/top-langs/?username=masterrahulind-tech%26layout=donut%26theme=radical%26hide_border=true%26bg_color=0D1117" alt="Top Languages Donut Chart" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmasterrahulind-tech%26layout%3Ddonut%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages Donut Chart" width="100%" />
 </td>
 </tr>
 </table>
@@ -123,7 +123,7 @@ Copy and paste this into your masterrahulind-tech/masterrahulind-tech repository
 
 <!-- GitHub Streak Card -->
 
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-streak-stats.herokuapp.com/?user=masterrahulind-tech%26theme=radical%26hide_border=true%26background=0D1117" alt="GitHub Streak" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmasterrahulind-tech%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 <br />
@@ -132,7 +132,7 @@ Copy and paste this into your masterrahulind-tech/masterrahulind-tech repository
 
 <div align="center">
 <!-- Animated Activity Graph -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-activity-graph.vercel.app/graph?username=masterrahulind-tech%26bg_color=0D1117%26color=ff007f%26line=00f0ff%26point=ffffff%26area=true%26hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dmasterrahulind-tech%26bg_color%3D0D1117%26color%3Dff007f%26line%3D00f0ff%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
@@ -141,7 +141,7 @@ Copy and paste this into your masterrahulind-tech/masterrahulind-tech repository
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-profile-trophy.vercel.app/?username=masterrahulind-tech%26theme=radical%26no-frame=true%26no-bg=true%26margin-w=15%26column=7" alt="Trophies" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dmasterrahulind-tech%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26column%3D7" alt="Trophies" />
 </a>
 </div>
 
