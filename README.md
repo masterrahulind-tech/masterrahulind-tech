@@ -1,58 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
-<h3 align="center">🚀 Full Stack Developer | Designer | Founder of Savera Graphics</h3>
-
----
-
-## 🌟 About Me
-- 💻 Passionate about **Web Development & UI/UX Design**
-- 🚀 Founder of **Savera Graphics**
-- 📊 Working on **School ERP + Payment Systems**
-- 🎯 Goal: Build scalable digital products
-- ⚡ Skilled in **Frontend + Backend + Design**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-4caf50?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2e7d32?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<!-- ================= ANIMATED INTRO ================= -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Rahul+Raj;Full+Stack+Developer+🚀;AI+%7C+ERP+%7C+Web+Solutions;Founder+@+SINDHURA+GROUP" />
+</p>
+
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=220&section=header&text=Rahul%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 🏢 Founder @ SINDHURA GROUP</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+  <a href="https://linkedin.com/in/masterrahul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/master_rahul.ind/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:masterrahul.ind@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 Skills Dashboard (Visual)
+## 🧠 About Me
+
+- 💡 4+ Years Experience in Web Development & IT  
+- 🚀 Founder of **SINDHURA GROUP (CareerCue & SaveraGraphics)**  
+- 🤖 Working on **AI Integration + ERP Systems**  
+- 📊 Building **Scalable & Secure Platforms**  
+- ⚡ Skilled in **Python, Java, SQL, JavaScript, AI Tools**  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,nodejs,mongodb,git,bootstrap,dotnet,figma&perline=6"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masterrahulind-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterrahulind-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterrahulind-tech&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Skills Visualization
 
 ```mermaid
 pie
-    title Skills Distribution
-    "Frontend" : 40
+    title Rahul Raj Skills
+    "Frontend" : 35
     "Backend" : 30
-    "UI/UX Design" : 20
-    "Other" : 10
+    "AI & Data" : 20
+    "UI/UX Design" : 15
